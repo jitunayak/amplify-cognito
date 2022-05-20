@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Amplify, { Auth } from "aws-amplify";
+import { Auth } from "aws-amplify";
 import { Button, withAuthenticator } from "@aws-amplify/ui-react";
 import "@aws-amplify/ui-react/styles.css";
 

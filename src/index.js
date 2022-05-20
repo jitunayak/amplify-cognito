@@ -12,7 +12,7 @@ Amplify.configure(awsconfig);
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 const theme = {
-  name: "my-theme",
+  name: "custom-theme",
   tokens: {
     colors: {
       neutral: {
